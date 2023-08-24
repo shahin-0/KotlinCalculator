@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#252932</color>
+    <color name="secondary">#242528</color>
+    <color name="operator">#D16562</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="operatorSecondary">#1A5258</color>
+</resources>
